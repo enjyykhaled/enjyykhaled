@@ -1,37 +1,48 @@
-<h1 align="center">Hi, I'm Engy Khaled 👋</h1>
+<div align="center">
 
-<h3 align="center">Computer Science & AI Student | Data Analysis Enthusiast</h3>
+# ✨ Hi, I'm Engy Khaled 👋
+### 🚀 Computer Science & AI Student | Bridging Data into Intelligent Insights
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enjyykhaled&label=Profile%20Views&color=0e75b6&style=flat" alt="enjyykhaled" />
-</p>
+<br>
 
----
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjyykhaled&layout=compact&theme=radical&hide=html" />
 
-### 🛠 Tech Stack
+<br>
+<br>
 
-| Category | Tools & Technologies |
+### 🛠 My Technical Arsenal
+*Turning raw data into smart solutions*
+
+| Area | Tools & Libraries |
 | :--- | :--- |
-| **Languages** | Python, SQL |
-| **Data Science & ML** | Scikit-learn, Pandas, NumPy, TensorFlow |
-| **Data Viz & BI** | Power BI, Seaborn, Matplotlib, Excel |
-| **Development** | Git, Streamlit, Jupyter Notebooks |
+| **Core** | Python, SQL, Git |
+| **AI & ML** | Scikit-learn, TensorFlow, NumPy, Pandas |
+| **Analytics & BI** | Power BI, Excel, Seaborn, Matplotlib |
+| **Deployment** | Streamlit, Jupyter, VS Code |
+
+</div>
 
 ---
 
-### 🚀 What I'm working on
-* **Data Pipelines:** Cleaning, processing, and deriving actionable insights from raw datasets.
-* **AI Modeling:** Developing and training machine learning models to solve real-world problems.
-* **Visualization:** Creating automated dashboards to visualize complex trends.
+### 💡 What I'm Currently Building
+*   **AI-Driven Diagnostics:** Exploring Computer Vision to automate automotive fault detection.
+*   **Data Pipelines:** Cleaning & transforming complex datasets into meaningful business insights.
+*   **Smart Automation:** Developing predictive models and interactive dashboards for data visualization.
 
 ---
 
-### 📈 GitHub Stats
-![Engy's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjyykhaled&show_icons=true&theme=radical)
+<div align="center">
 
----
+### 📈 My GitHub Journey
+![Engy's Stats](https://github-readme-stats.vercel.app/api?username=enjyykhaled&show_icons=true&theme=radical&count_private=true)
 
-### 📫 Connect with me
-[<img align="left" alt="Engy Khaled | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br>
 
-[linkedin]: https://www.linkedin.com/in/enjyykhaled/
+### 🌐 Let's Connect & Collaborate
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enjyykhaled/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=enjyykhaled&label=Profile%20Views&color=7159c1&style=flat-square" />
+</div>
