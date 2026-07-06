@@ -1,35 +1,37 @@
-# ✨ Hey there, I'm Engy Khaled ✨
+<h1 align="center">Hi, I'm Engy Khaled 👋</h1>
 
-💻 **Computer Science & AI Student**
-🚀 **Learning to bridge the gap between data and insights**
+<h3 align="center">Computer Science & AI Student | Data Analysis Enthusiast</h3>
 
----
-
-### 👤 About Me
-* 🎓 Computer Science & AI student, passionate about exploring the world of Artificial Intelligence.
-* 📊 Enthusiastic about Data Analysis, from data cleaning to extracting meaningful insights.
-* 🛠️ Actively building my skillset in Machine Learning and Python-based solutions.
-* 🤝 Open to learning, collaboration, and projects that challenge my problem-solving skills.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enjyykhaled&label=Profile%20Views&color=0e75b6&style=flat" alt="enjyykhaled" />
+</p>
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🛠 Tech Stack
 
-**🧠 AI & Machine Learning Basics**
-Python • Scikit-learn • Model Fundamentals • Introduction to NLP & Time Series
-
-**📊 Data Analysis & Visualization**
-Pandas • NumPy • SQL • Data Cleaning • EDA • Power BI • Excel • Seaborn • Matplotlib
-
----
-
-### 🚀 Currently Exploring
-* Deepening my understanding of core AI concepts and algorithms.
-* Improving my Data Analysis workflows to tell better stories with data.
-* Working on projects involving Computer Vision and intelligent systems.
-* Constant learning and experimenting with new datasets.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL |
+| **Data Science & ML** | Scikit-learn, Pandas, NumPy, TensorFlow |
+| **Data Viz & BI** | Power BI, Seaborn, Matplotlib, Excel |
+| **Development** | Git, Streamlit, Jupyter Notebooks |
 
 ---
 
-### 📫 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/enjyykhaled/)
+### 🚀 What I'm working on
+* **Data Pipelines:** Cleaning, processing, and deriving actionable insights from raw datasets.
+* **AI Modeling:** Developing and training machine learning models to solve real-world problems.
+* **Visualization:** Creating automated dashboards to visualize complex trends.
+
+---
+
+### 📈 GitHub Stats
+![Engy's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjyykhaled&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with me
+[<img align="left" alt="Engy Khaled | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/enjyykhaled/
