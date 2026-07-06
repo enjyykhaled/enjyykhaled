@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00E7FF&height=260&section=header&text=Engy%20Khaled&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Engy%20Khaled&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3500&pause=1000&color=00E7FF&center=true&vCenter=true&width=850&lines=Computer+Science+%26+AI+Student;Machine+Learning+Enthusiast;Computer+Vision+Developer;Data+Analysis+Explorer;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+%26+AI+Student;Computer+Vision+Engineer;Machine+Learning+Enthusiast;Data+Analysis+Explorer;Always+Learning+New+Things+🚀"/>
 
-<p>
-  <a href="https://www.linkedin.com/in/enjykhaled">
-    <img src="https://img.shields.io/badge/LinkedIn-Enjy%20Khaled-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/enjyykhaled">
-    <img src="https://img.shields.io/badge/GitHub-enjyykhaled-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br>
+
+<a href="https://www.linkedin.com/in/enjykhaled">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/enjyykhaled">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=enjyykhaled&style=for-the-badge&color=blueviolet"/>
 
@@ -19,106 +20,135 @@
 
 ---
 
-# 👩‍💻 About Me
+# 💜 About Me
 
-🎓 Computer Science & Artificial Intelligence Student
+```python
+class Engy():
 
-💡 Passionate about solving real-world problems using AI.
+    education = "Computer Science & Artificial Intelligence"
 
-🔍 Interested in:
+    interests = [
+        "Machine Learning",
+        "Computer Vision",
+        "Deep Learning",
+        "Data Analysis",
+        "Artificial Intelligence"
+    ]
 
-- 🤖 Machine Learning
-- 👁️ Computer Vision
-- 📊 Data Analysis
-- 🧠 Artificial Intelligence
+    currently_working = [
+        "🚗 Automotive Diagnostics",
+        "🎨 Smart Stylization"
+    ]
 
-🚗 **Currently Working On**
-- Automotive Diagnostics AI
+    learning = [
+        "Advanced Machine Learning",
+        "Deep Learning",
+        "MLOps"
+    ]
 
-🎨 **Building**
-- Smart Image Stylization System
-
-📚 **Currently Learning**
-- Advanced Machine Learning
-- Deep Learning
-- Model Optimization
+    fun_fact = "Coffee + Python = Magic ☕"
+```
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,opencv,tensorflow,pytorch,sklearn,pandas,numpy,mysql,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,opencv,pytorch,tensorflow,sklearn,pandas,numpy,mysql,git,github,vscode,linux"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Statistics
+# 🚀 Tools
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=enjyykhaled&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://skillicons.dev/icons?i=figma,notion,postman,docker,anaconda"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=enjyykhaled&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 📊 Most Used Languages
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjyykhaled&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=enjyykhaled&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjyykhaled&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=enjyykhaled&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://streak-stats.demolab.com?user=enjyykhaled&theme=midnight-purple&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=enjyykhaled&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=enjyykhaled&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 💻 Coding Activity
+# 🏅 Achievements
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enjyykhaled&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
-# ⚡ Fun Fact
+# 💻 Languages
 
-> **"Artificial Intelligence is not replacing humans; it's empowering those who know how to use it." 🚀**
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enjyykhaled&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enjyykhaled&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📅 Productivity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enjyykhaled&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+### *"The best way to predict the future is to build it."* 🚀
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🌟 Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile ⭐
 
-⭐ Don't forget to follow me and check out my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,100:6A11CB&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,20,24"/>
 
 </div>
