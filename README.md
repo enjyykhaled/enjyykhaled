@@ -1,12 +1,12 @@
 <div align="center">
 
-# I'm Engy Khaled
+# Ladies and Gentlemen, I'm Engy Khaled
 
-### CS & AI Student | Data Analysis Enthusiast
+### Computer Science & AI Student | Data Analysis Enthusiast
 
 **Focusing on:** Computer Vision | Predictive Modeling | Data Insights
 **Currently working on:** [Automotive Diagnostics] | [Smart Stylization]
-**Learning:** Advanced ML 
+**Learning:** Advanced ML | Digital Twins
 
 ---
 
