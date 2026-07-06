@@ -69,27 +69,6 @@ class Engy():
 
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=enjyykhaled&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjyykhaled&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=enjyykhaled&theme=midnight-purple&hide_border=true"/>
-
-</p>
 
 ---
 
