@@ -6,7 +6,7 @@
 
 **Focusing on:** Computer Vision | Predictive Modeling | Data Insights
 **Currently working on:** [Automotive Diagnostics] | [Smart Stylization]
-**Learning:** Advanced ML | Digital Twins
+**Learning:** Advanced ML 
 
 ---
 
